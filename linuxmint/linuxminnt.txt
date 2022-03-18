@@ -1,0 +1,11 @@
+primeira etapa: criar Pendrive do linux Mint;
+Donwload: https://linuxmint.com/download.php
+Donwload rufus:https://rufus.ie/pt_BR/
+
+Segunda etapa.: bootar no notebook com Pendrive do linux mint;
+tecla de menu inicialização:F8
+Tecla de BIOS: del
+
+Terceira etapa.: Formatar e instalar linux mint.
+Gparted: GParted é o aplicativo GNOME para edição de partições.
+Suas funções são as de detectar, ler, criar, destruir, redimensionar, verificar, mover e copiar partições e seus sistemas de arquivos.
