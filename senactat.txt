@@ -1,3 +1,2 @@
-criando arquivos no github, utilizando a guia add files.
-
-alterando o arquino no Github.
+criando arquivos no github, utilizando a guia add Files.
+apagando conteúdo no Github.
