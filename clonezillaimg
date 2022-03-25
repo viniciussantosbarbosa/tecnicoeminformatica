@@ -1,0 +1,6 @@
+Trabalhar com clonagem de HD (Hard Disk) utilizando a solução Open Source Clonezilla.
+
+primeira etapa.: Criar um diretório chamado: IMG na partição Backup.
+
+segunda etapa: Após a clonagem, inicar o windows, verificar no diretório IMG se a imagem foi criada.
+
